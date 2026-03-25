@@ -31,8 +31,8 @@ python -m pip install pillow
 ## Install
 
  ```
-> git clone https://github.com/PedroHenriqueDevBR/social-network.git
-> cd social-network
+> git clone https://github.com/MARISTELAOLIVEIRA/rede-social.git
+> cd rede-social
 > python manage.py makemigrations
 > python manage.py migrate
  ```
