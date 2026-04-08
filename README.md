@@ -107,9 +107,6 @@ media/         -> uploads realizados na aplicacao
 
 ## Autoria
 
-Projeto utilizado para fins educacionais.
-
-<p>
-	Feito com o <img src="docs/images/heart-mini-24.png" width="18" alt="coração" style="vertical-align: -2px;" /> pela <strong>Prof.ª Maristea</strong>
+Projeto utilizado para fins educacionais. Feito com o <img src="docs/images/heart-mini-24.png" width="18" alt="coração" style="vertical-align: -2px;" /> pela <strong>Prof.ª Maristela</strong>
 	<img src="media/memoji2.png" width="56" alt="Memoji da professora Maristea" style="vertical-align: middle; margin-left: 8px;" />
-</p>
+
