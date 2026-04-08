@@ -35,9 +35,8 @@ Este projeto foi desenvolvido como um ambiente de estudo para praticar desenvolv
 
 ## Capturas de tela
 
-<img src="docs/images/tela-cadastro-nova.png" width="100%" alt="Tela de cadastro" />
-<img src="docs/images/tela-feed-nova.png" width="100%" alt="Tela de primeiro acesso ao feed" />
 <img src="docs/images/login.png" width="100%" alt="Tela de login" />
+<img src="docs/images/cadastro.png" width="100%" alt="Tela de cadastro" />
 <img src="docs/images/perfil.png" width="100%" alt="Tela de perfil" />
 
 ## Como executar o projeto
