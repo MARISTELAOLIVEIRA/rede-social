@@ -35,8 +35,9 @@ Este projeto foi desenvolvido como um ambiente de estudo para praticar desenvolv
 
 ## Capturas de tela
 
+<img src="docs/images/tela-cadastro-nova.png" width="100%" alt="Tela de cadastro" />
+<img src="docs/images/tela-feed-nova.png" width="100%" alt="Tela de primeiro acesso ao feed" />
 <img src="docs/images/login.png" width="100%" alt="Tela de login" />
-<img src="docs/images/cadastro.png" width="100%" alt="Tela de cadastro" />
 <img src="docs/images/perfil.png" width="100%" alt="Tela de perfil" />
 
 ## Como executar o projeto
@@ -109,4 +110,7 @@ media/         -> uploads realizados na aplicacao
 
 Projeto utilizado para fins educacionais.
 
-Feito com o coração pela Prof.ª Maristea
+<p>
+	Feito com o <img src="docs/images/heart-mini-24.png" width="18" alt="coração" style="vertical-align: -2px;" /> pela <strong>Prof.ª Maristea</strong>
+	<img src="media/memoji2.png" width="56" alt="Memoji da professora Maristea" style="vertical-align: middle; margin-left: 8px;" />
+</p>
