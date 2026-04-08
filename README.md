@@ -1,5 +1,5 @@
 <h1 align="center">
-:bird: Social Network
+:bird: Rede Social
 </h1>
 
 <p align="center">
