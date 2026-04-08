@@ -3,26 +3,25 @@
 </h1>
 
 <p align="center">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/pedrohenriquedevbr/social-network?style=social">
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/pedrohenriquedevbr/social-network?style=social">
+<img alt="Django" src="https://img.shields.io/badge/Django-4.x-0C4B33?logo=django&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white">
 </p>
 
 # Screenshots
 
-<img src="https://github.com/PedroHenriqueDevBR/social-network/blob/master/docs/images/login.png" width="100%" alt="print" />
-<img src="https://github.com/PedroHenriqueDevBR/social-network/blob/master/docs/images/cadastro.png" width="100%" alt="print" />
-<img src="https://github.com/PedroHenriqueDevBR/social-network/blob/master/docs/images/dashboard-first-acess.png" width="100%" alt="print" />
-<img src="https://github.com/PedroHenriqueDevBR/social-network/blob/master/docs/images/dashboard-done.png" width="100%" alt="print" />
+<img src="docs/images/cadastro.png" width="100%" alt="Tela de cadastro" />
+<img src="docs/images/login.png" width="100%" alt="Tela de login" />
+<img src="docs/images/perfil.png" width="100%" alt="Tela de perfil" />
 
-## Dependecies
+## Dependencias
  
- * install requirements
+ * Instalar requirements
  
  ```
  pip install -r requirements.txt
  ```
 
- * Install dependecies
+ * Instalar dependencia extra
 
  ```
 python -m pip install pillow
@@ -31,8 +30,8 @@ python -m pip install pillow
 ## Install
 
  ```
-> git clone https://github.com/MARISTELAOLIVEIRA/rede-social.git
-> cd rede-social
+> git clone https://github.com/maristelaoliveira/rede-social.git
+> cd social-network
 > python manage.py makemigrations
 > python manage.py migrate
  ```
